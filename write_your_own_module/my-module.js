@@ -1,0 +1,1 @@
+exports.MyText = "hello from module";
